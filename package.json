@@ -1,0 +1,28 @@
+{
+  "name": "jest-extra-utils",
+  "version": "0.1.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tfoxy/jest-extra-utils.git"
+  },
+  "author": "Tomás Fox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tfoxy/jest-extra-utils/issues"
+  },
+  "homepage": "https://github.com/tfoxy/jest-extra-utils#readme",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "error-stack-parser": "^2.0.6"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.3",
+    "@types/node": "^16.11.11",
+    "typescript": "^4.5.2"
+  }
+}
