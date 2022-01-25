@@ -1,5 +1,7 @@
 # jest-extra-utils
 
+Jest utilities/patterns that can be useful in a big project
+
 ## Installation
 
 ```sh
